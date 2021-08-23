@@ -1,0 +1,160 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#orange-color{
+    color: orangered;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+
+.skip-diet{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 2%;
+}
+#first_div{
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+    padding: 5%;
+}
+.half-width p{
+    padding-bottom: 40px;
+}
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    
+    border-radius: 30px;
+    height: 10px 50px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+}
+.back-image{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.my-recipies{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-bottom: 20px;
+    
+}
+.box-shadow{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    padding: 10px;
+}
+.ceter-align{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+}
+.followers{
+    text-align: center;
+    box-shadow: 10px 10px 30px gray;
+    justify-content: center;
+    align-items: center;
+    
+}
+.follower-section{
+    padding: 5px 100px;
+    margin: 0 auto;
+}
+.footer-section{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 20px 60px;
+}
+
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#orange-color{
+    color: orangered;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+
+.skip-diet{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 2%;
+}
+#first_div{
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+    padding: 5%;
+}
+.half-width p{
+    padding-bottom: 40px;
+}
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    
+    border-radius: 30px;
+    height: 10px 50px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+}
+.back-image{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.my-recipies{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-bottom: 20px;
+    
+}
+.box-shadow{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    padding: 10px;
+}
+.ceter-align{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+}
+.followers {
+    text-align: center;
+    box-shadow: 10px 10px 30px gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.follower-section{
+    padding: 5px 100px;
+    margin: 0 auto;
+}
+.footer-section{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 20px 60px;
+}
